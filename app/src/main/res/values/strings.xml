@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">TerrainRender</string>
+    <string name="title_location_permission">GPS Needed</string>
+    <string name="text_location_permission">Application needs GPS to work correctly</string>
+    <string name="ok">OK</string>
+</resources>
